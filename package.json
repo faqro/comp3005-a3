@@ -1,0 +1,15 @@
+{
+  "name": "comp3005-a3-q1",
+  "version": "1.0.0",
+  "description": "comp3005-a3 Faraaz Jan 101298165",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Faraaz Jan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "pg": "^8.16.3"
+  }
+}
